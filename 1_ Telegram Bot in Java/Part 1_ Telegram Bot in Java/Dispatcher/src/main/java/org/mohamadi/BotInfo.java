@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class BotInfo {
 
-
     private final String username;
     private final String token;
 
